@@ -1,2 +1,12 @@
 # Mac
 *.DS_Store
+
+# Xcode Settings
+*.xcuserstate
+*.xcworkspacedata
+
+# Project
+*.pbxproj
+
+# Folders
+.git
